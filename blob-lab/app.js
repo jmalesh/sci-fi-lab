@@ -57,6 +57,16 @@ for (i = 0; i < stringArray.length; i++) {
 
 console.log(reverseArray.sort());
 
+// function assert(expression, failureMessage) {
+//   if (!expression) {
+//     console.log('assertion failure: ', failureMessage);
+//   }
+// }
+//
+// assert(blob.hoursToOoze(0, 1) === 0, 'no people means no time needed.');
+// assert(blob.hoursToOoze(1000, 1) === hoursSpentInDowington,
+//   'hoursSpentInDowington should match hoursToOoze\'s result for 1000');
+
 
 //reverseArray.push(stringArray.forEach(reverse()));
 // var str = 'this is a good example for string reverse';
